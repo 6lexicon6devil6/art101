@@ -1,3 +1,13 @@
 nav,a{
   color:green;
 }
+
+nav,li{
+  color:yellow;
+}
+#li_lab_4{
+  color:orange;
+}
+#a_lab_4{
+  color:purple;
+}
