@@ -1,5 +1,7 @@
-<h1 style="color:Tomato;">Hello World</h1>
+h1{
+  color: red;
+}
 
-p#red-one {
+p.callout {
   color: red;
 }
