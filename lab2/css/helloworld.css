@@ -1,7 +1,4 @@
-h1 {
-  color: red;
-  font-size: 200%;
-}
+<h1 style="color:Tomato;">Hello World</h1>
 
 p {
   text-indent:20px;
