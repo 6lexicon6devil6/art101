@@ -1,8 +1,10 @@
-.header {
+h1 {
   color: red;
-  font-size: 200%
+  font-size: 200%;
 }
 
 p {
-  text-indent:
+  text-indent:20px;
+  margin-left:10px;
+  color: red;
 }
