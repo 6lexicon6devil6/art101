@@ -1,7 +1,27 @@
-h1{
+h1 {
   color: red;
+  font-size: 300%;
 }
 
 .callout {
-  color: red;
+  color: pink
+  ;
+  font-family:"comic sans";
+  text-indent: 120px;
+  font-size: 130%;
 }
+
+#content {
+    border: dotted black 1px;
+    width: 700px;
+    min-height: 500px;
+    padding: 10px;
+    border-width: medium;
+    background-color: #E6E6FA;
+
+}
+
+
+
+
+</style>
