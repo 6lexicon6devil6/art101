@@ -5,8 +5,9 @@ h1 {
 }
 p {
   text-align:center;
-  border-radius:
+  border-style:dashed;
 }
 img {
   img-orientation:center;
+  border-style:solid;
 }
