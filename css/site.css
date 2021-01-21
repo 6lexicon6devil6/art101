@@ -12,4 +12,7 @@ p {
 img {
   img-orientation:center;
   border-style:solid;
+  width: 50%;
+  }
+
 }
