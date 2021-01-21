@@ -7,3 +7,6 @@ p {
   text-align:center;
   border-radius:
 }
+img {
+  img-orientation:center;
+}
