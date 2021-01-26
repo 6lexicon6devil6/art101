@@ -1,0 +1,25 @@
+img{
+    width: 50%;
+    border-style:solid;
+  }
+
+h1 {
+  text-align:center;
+  border-style:dotted;
+  text-decoration: underline;
+  letter-spacing: 10px;
+  }
+
+body {
+  background-color: orange;
+  }
+
+h3 {
+      text-align:center;
+      text-decoration: underline;
+  }
+
+h5 {
+    text-align:center;
+    text-decoration: underline;
+  }

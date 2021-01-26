@@ -3,8 +3,8 @@ h1 {
   border-style:dotted;
   text-decoration: underline;
   letter-spacing: 10px;
-
 }
+
 p {
   text-align:center;
   border-style:dashed;
@@ -14,5 +14,3 @@ img {
   border-style:solid;
   width: 50%;
   }
-
-}
