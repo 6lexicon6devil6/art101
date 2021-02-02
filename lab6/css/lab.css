@@ -1,0 +1,16 @@
+img{
+    border-style:solid;
+  }
+
+h1 {
+  border-style:ridge;
+  letter-spacing: 10px;
+  }
+
+body {
+  background-color: green;
+  }
+
+h3 {
+      text-decoration: underline;
+  }
