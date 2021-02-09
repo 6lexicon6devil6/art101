@@ -1,0 +1,20 @@
+img{
+    border-style:solid;
+  }
+
+h1 {
+  border-style:ridge;
+  letter-spacing: 10px;
+  text-align: center;
+  }
+
+body {
+  background-color: pink;
+  text-align: center;
+
+  }
+
+h2 {
+      text-decoration: underline;
+      text-align: center;
+  }
