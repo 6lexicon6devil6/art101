@@ -1,3 +1,10 @@
+//author: Alexis Schulz
+//date: 2021/02/09
+//license:
+
+
+
+
 console.log("javascript loaded");
 var nameVar = "Alexis";
 var numVar = 5;
