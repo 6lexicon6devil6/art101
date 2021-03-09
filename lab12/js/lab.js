@@ -5,7 +5,7 @@
  **/
 
  // Return the houses
-function.sortingHat(str) {
+function sortingHat(str) {
   length = str.length;
   mod = length % 4;
   if (mod == 0){
