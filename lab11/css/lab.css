@@ -1,0 +1,27 @@
+h1 {
+  border-style: ridge;
+  border-color: blue;
+  letter-spacing: 10px;
+  text-align: center;
+}
+
+div#output{
+  background-color: pink;
+  border-style: solid;
+  border-color: blue;
+}
+
+body {
+  background-color: blue;
+  text-align: center;
+}
+
+h2 {
+      text-decoration: underline;
+      text-align: center;
+}
+
+.special {
+  font-weight:bold;
+  background-color: pink;
+}
