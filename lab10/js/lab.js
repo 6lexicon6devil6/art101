@@ -9,7 +9,7 @@ function reorderUserName(word){
 }
 
 //find the button element
-  buttonEl = document.getElementById("my-button");
+  buttonEl = document.getElementById("submit-button");
   console.log("button element:", buttonEl);
 //find the form element
   inputEl = document.getElementById("user-name");
