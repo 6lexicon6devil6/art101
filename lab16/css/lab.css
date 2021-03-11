@@ -1,0 +1,46 @@
+h1 {
+  border-style: ridge;
+  border-color: blue;
+  letter-spacing: 10px;
+  text-align: center;
+  background-color: lightblue;
+}
+
+div#output{
+  background-color: lightblue;
+  border-style: solid;
+  border-color: blue;
+}
+
+div#input{
+  background-color: lightblue;
+  border-style: solid;
+  border-color: blue;
+}
+
+body {
+  background-color: green;
+  text-align: center;
+}
+
+h3 {
+      text-decoration: underline;
+      text-align: center;
+      border-style: ridge;
+      border-color: blue;
+      background-color: lightblue;
+}
+
+img {
+  width: 50%
+}
+
+#output p {
+  width: 50px;
+  position: relative;
+  display: inline;
+  padding-left;
+}
+
+#output {
+}
