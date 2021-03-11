@@ -1,24 +1,12 @@
 h1 {
   border-style: ridge;
-  border-color: blue;
+  border-color: orange;
   letter-spacing: 10px;
   text-align: center;
 }
 
-div#output{
-  background-color: pink;
-  border-style: solid;
-  border-color: blue;
-}
-
-div#input{
-  background-color: pink;
-  border-style: solid;
-  border-color: blue;
-}
-
 body {
-  background-color: green;
+  background-color: pink;
   text-align: center;
 }
 
@@ -26,3 +14,8 @@ h2 {
       text-decoration: underline;
       text-align: center;
 }
+
+img{
+    width: 50%;
+    border-style:solid;
+  }

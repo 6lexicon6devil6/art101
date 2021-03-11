@@ -44,7 +44,8 @@ $("#button").click(function fizzBuzz() {
       $("#output").append("<p>" + num + "-" + str + "</p>");
     }
     else {
-      $("#output").append("<p>" + num + "</p>");
+      str += "Bang";
+      $("#output").append("<p>" + num + "-" + str + "</p>");
     }
   };
 // }

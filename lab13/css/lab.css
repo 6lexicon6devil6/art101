@@ -6,7 +6,7 @@ h1 {
 }
 
 div#output{
-  background-color: pink;
+  background-color: lightblue;
   border-style: solid;
   border-color: blue;
 }
@@ -25,4 +25,15 @@ body {
 h3 {
       text-decoration: underline;
       text-align: center;
+}
+
+
+#output p {
+  width: 50px;
+  position: relative;
+  display: inline;
+  padding-left;
+}
+
+#output {
 }
